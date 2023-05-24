@@ -11,3 +11,9 @@ At the annual Bug or Feature?, these are precisely the issues we aim to discuss.
 The 2023 iteration is the fourth time we organise this symposium (fifth if counting the time before the name). It will be a hybrid event taking place between November 7th to 9th in Oslo, Norway. More information can be found in the [Call for Papers](https://github.com/Bug-or-Feature-DH/Bug-or-Feature-2023/blob/b508e9423b599d60024c72ca4ccd228352b4146a/BoF-CfP-2023.pdf) and the [registration form](https://github.com/Bug-or-Feature-DH/Bug-or-Feature-2023/blob/b508e9423b599d60024c72ca4ccd228352b4146a/BoFregistrationform2023.pdf).
 
 In case of questions, contact the committee at [our email](bugorfeature@protonmail.com)!
+
+
+# Committee members
+[Elisabeth Maria Magin](https://www.khm.uio.no/english/about/organisation/archaeology-department/staff/elismari/index.html)
+
+Margareth Warburton
