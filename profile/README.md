@@ -17,3 +17,7 @@ In case of questions, contact the committee at [our email](bugorfeature@protonma
 [Elisabeth Maria Magin](https://www.khm.uio.no/english/about/organisation/archaeology-department/staff/elismari/index.html)
 
 Margareth Warburton
+
+[Sven Kraus](https://nordistik.philhist.unibas.ch/de/personen/sven-kraus/)
+
+[Nesina Grütter](https://theologie.unibas.ch/de/personen/nesina-gruetter/)
